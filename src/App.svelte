@@ -14,7 +14,6 @@
     </a>
   </div>
   <h1>1322002 - Mathius Ronaldo Ibrahim</h1>
-  <h2>MIKU MIKU BEAM!</h2>
 
   <div class="card">
     <Counter />
